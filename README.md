@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlejandroCunePellegrino
 - 👀 I’m interested in learn programming and develop myself in that area.
 - 🌱 I’m currently learning frontend
-- 💞️ I’m looking to collaborate on it companies
+- 💞️ I’m looking to collaborate on IT companies
 - 📫 How to reach me https://www.linkedin.com/in/alejandro-cu%C3%B1e-pellegrino/
 
 <!---
